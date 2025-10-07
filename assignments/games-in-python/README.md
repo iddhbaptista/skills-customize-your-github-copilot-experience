@@ -2,11 +2,11 @@
 
 # 🎮 Hangman Game Challenge
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Desenvolver um jogo da forca em Python, praticando manipulação de strings, uso de loops, condicionais e entrada do usuário.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implementação do Jogo da Forca
 
